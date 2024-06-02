@@ -1,0 +1,13 @@
+Cars:-
+Hyundai	Sonata	2022	True	1500	https://img.hotimg.com/1000158657.jpeg	5 Seater,15Kmpl Mileage
+BMW	X5	2024	True	2700	https://img.hotimg.com/1000158732.jpeg	5 Seater,25Kmpl Mileage
+Hyundai	Elantra	2022	True	1900	https://img.hotimg.com/1000158662.png	4 Seater,15Kmpl Mileage
+Ferrari	488 GTB	2020	True	2000	https://img.hotimg.com/1000158668.png	4 Seater,20Kmpl Mileage
+Ferrari	812 Superfast	2022	True	1600	https://img.hotimg.com/1000158662.png	4 Seater,15Kmpl Mileage
+Suzuki	Swift	2020	True	1000	https://img.hotimg.com/1000158806.jpeg	6 Seater,25Kmpl Mileage
+Kia	Sportage	2019	False	900	https://img.hotimg.com/1000158807.jpeg	4 Seater,10Kmpl Mileage
+Audi	A4	2023	False	2500	https://img.hotimg.com/10001586696c887b48b5779316.png	4 Seater,15Kmpl Mileage
+Hyundai	Elantra	2022	True	1800	https://img.hotimg.com/1000158657.jpeg	5 Seater,15Kmpl Mileage
+Honda	City	2024	True	800	https://imgd.aeplcdn.com/1280x720/n/cw/ec/134287/city-exterior-right-front-three-quarter-76.jpeg?isig=0&q=80	5 Seater,20Kmpl Mileage
+BMW	Series-7	2023	True	1000	https://img.hotimg.com/1000158813.jpeg	5 seater,20Kmpl Mileage
+Swift	Series	2017	True	1300	https://img.hotimg.com/1000158813.jpeg	4 seater,15Kmlp Mileage
